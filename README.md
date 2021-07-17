@@ -2,7 +2,7 @@
 
 # I am selva, a student developer from India.
 
-* Student at Sri Sairam Engineering College 😊
+* Student at Sri Sairam Engineering College 😊  
 
 * Crazy about WEB DEV, AI and IOT ❤️
 
@@ -14,6 +14,6 @@
 
 # "Do what you love, and love what you do"
 
-Hobbies : Listening Songs, cricket, volleyball, quotes writing, Programming.
+   Hobbies : Listening Songs, cricket, volleyball, quotes writing, Programming.
 
-Crazy love on programming 😜😍
+   Crazy love on programming 😜😍
