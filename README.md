@@ -49,7 +49,7 @@
 
 # "Do what you love, and love what you do"
 
-   Hobbies : Listening Songs, cricket, volleyball, quotes writing, Programming.
+   Hobbies : Listening Songs, cricket, quotes writing, coding.
 
    Crazy love on programming 😜😍
 
