@@ -4,11 +4,11 @@
 
 * Student at Sri Sairam Engineering College 😊  
 
-* Crazy about WEB DEV, AI and IOT ❤️
+* Crazy about WEB DEV, AI, ML and DATA SCIENCE ❤️
 
-* Currently learning fullstack WEB DEV
+* Currently learning AI
 
-* A front-end Web developer 🌐
+* A full-stack Web developer 🌐
 
 * Interested in web development
 ## 🚀 Languages and Tools:
