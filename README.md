@@ -11,7 +11,6 @@ I'm a passionate Developer with a strong background in cloud computing and web d
 - **Communication:** Excellent written and verbal communication skills
 
 
-* Interested in web development
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
