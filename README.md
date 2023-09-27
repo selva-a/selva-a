@@ -2,13 +2,14 @@
 
 # I am selva, a student developer from India.
 
-* Student at Sri Sairam Engineering College 😊  
+I'm a passionate Developer with a strong background in cloud computing and web development. I love automating processes, optimizing workflows, and building scalable systems.
 
-* Crazy about WEB DEV, AI, ML and DATA SCIENCE ❤️
+## Skills
 
-* Currently learning AI
+- **Cloud Computing:** AWS, 
+- **Web Development:** HTML, CSS, JavaScript, React
+- **Communication:** Excellent written and verbal communication skills
 
-* A full-stack Web developer 🌐
 
 * Interested in web development
 ## 🚀 Languages and Tools:
