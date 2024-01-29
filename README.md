@@ -37,6 +37,19 @@ I'm a passionate Developer with a strong background in cloud computing and web d
     
 </p>
 <br/>
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selva-a&layout=compact&hide=jupyter%20notebook,JavaScript&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=selva-a&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?selva-a&theme=radical)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=selva-a&color=red&label=Profile+Views&style=for-the-badge)
+
+<h1 align='center'>🚀 <i>Yesterday IMPOSSIBLE are Today INNOVATION </i> 🚀</h1>
 
 ## Connect with me:
 <p align="left">
@@ -46,10 +59,4 @@ I'm a passionate Developer with a strong background in cloud computing and web d
 <a href = "https://instagram.com/selva._a_?utm_medium=copy_link"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
-# "Do what you love, and love what you do"
-
-   Hobbies : Listening Songs, cricket, quotes writing, coding.
-
-   Crazy love on programming 😜😍
 
