@@ -2,7 +2,7 @@
 
 # I am selva, a student developer from India.
 
-I'm a passionate Developer with a strong background in cloud computing and web development. I love automating processes, optimizing workflows, and building scalable systems.
+I am an individual who constantly seeking new challenges and opportunities to grow. Throughout my academic journey, I have consistently demonstrated a strong work ethic, excellent time management skills, and the ability to thrive in fast-paced environments. I am eager to leverage my skills and knowledge to contribute to a dynamic and innovative organization where I can continue to learn and make a positive impact.
 
 ## Skills
 
