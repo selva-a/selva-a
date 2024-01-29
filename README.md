@@ -45,7 +45,7 @@ I'm a passionate Developer with a strong background in cloud computing and web d
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=selva-a&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?selva-a&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=selva-a&theme=radical)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=selva-a&color=red&label=Profile+Views&style=for-the-badge)
 
