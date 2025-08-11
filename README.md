@@ -1,5 +1,4 @@
 <!-- Typing Effect Intro -->
-[Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Hello+World!;I+am+Selva;Welcome+to+my+Profile!)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=900&lines=Prompt+Engineer+%7C+AI+Developer+%7C+Tech+Enthusiast;Building+Agentive+AI+Products;Transforming+Ideas+into+Intelligent+Systems)](https://git.io/typing-svg)
 
 
