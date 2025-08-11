@@ -1,6 +1,7 @@
 <!-- Typing Effect Intro -->
+<center>![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Hello+World!;I+am+Selva;Welcome+to+my+Profile!)</center>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=900&lines=Prompt+Engineer+%7C+AI+Developer+%7C+Tech+Enthusiast;Building+Agentive+AI+Products;Transforming+Ideas+into+Intelligent+Systems)](https://git.io/typing-svg)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Hello+World!;I+am+Selva;Welcome+to+my+Profile!)
+
 
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Selva Narayanan A
