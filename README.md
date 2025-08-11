@@ -55,7 +55,8 @@ I bring both **technical depth** and **user-first thinking** to every project.
 ---
 
 ## 🐍 Contribution Animation
-![Snake animation](https://github.com/selva-a/selva-a/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]<img src="https://raw.githubusercontent.com/selva-a/selva-a/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+
 
 ---
 
